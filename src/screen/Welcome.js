@@ -5,19 +5,8 @@ import FindSectorSearch from '../component/FindSectorSearch'
 import CategoryList from '../component/CategouryList'
 import SectorHighlights from '../section/SectorHiglidht'
 import RecommendedItems from '../section/RecommendedItems'
-import { useNavigation } from '@react-navigation/native';
 
 const Welcome = () => {
-  // const navigation = useNavigation();
-
-  // useEffect(() => {
-  //   const timer = setTimeout(() => {
-  //     navigation.navigate('Home'); 
-  //   }, 3000);
-
-  //   return () => clearTimeout(timer); 
-  // }, [navigation]);
-
   return (
     <ScrollView style={{backgroundColor:"#fff"}}>
     <TopBar/>
