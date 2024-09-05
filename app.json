@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "profileappvelocitytech",
-    "slug": "profileappvelocitytech",
+    "name": "ConnectSoluctionss",
+    "slug": "ConnectSoluctionss",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,14 +19,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.sachin1203.profileappvelocitytech"
+      "package": "com.sachin1203.ConnectSoluctionss"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "461d8f06-a990-43b1-89c2-06cf0d14bf06"
+        "projectId": "38a9d348-d2a0-49ed-bf3e-63a3c5078d5e"
       }
     },
     "plugins": [
