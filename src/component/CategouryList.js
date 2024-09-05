@@ -14,11 +14,8 @@ const categories = [
     {url:require("../../assets/icons/material-symbols_health-metrics-rounded.png"), name: 'Healthcare', icon: 'medkit-outline', color: '#7986CB' , bgOne:"#fff",bgTwo:"#CFCFFF",w:"38%"},
 ];
 
-const CategoryList = () => {
-    const handlenavigator =()=>{
-        
-        router.navigate('Home'); 
-    }
+const CategoryList = ({handlenavigator}) => {
+  
 
     return (
         <View style={{marginTop: responsiveHeight(3),}}>

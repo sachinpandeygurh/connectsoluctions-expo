@@ -60,7 +60,7 @@ const styles = StyleSheet.create({
   },
   dogImage1: {
     position: 'absolute',
-    top: responsiveHeight(1),
+    top: responsiveHeight(1.5),
     left: responsiveWidth(5.5),
   },
   dogImage2: {
