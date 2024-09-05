@@ -10,7 +10,7 @@ import { useNavigation } from '@react-navigation/native';
 const Welcome = () => {
   const navigation = useNavigation();
 const handlenavigator =()=>{
-  navigation.navigate('Welcome'); 
+  navigation.navigate('Home'); 
 }
   
 
